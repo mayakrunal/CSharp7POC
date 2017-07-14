@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp7POC", "CSharp7POC\CSharp7POC.csproj", "{14185A15-2C3F-4497-9F3D-3179A5185837}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuples", "Tuples\Tuples.csproj", "{B1D76D04-D9DE-45D4-8D35-A438A5EA45B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatterenMatching", "PatterenMatching\PatterenMatching.csproj", "{FA21F8A3-5EF8-47A6-949C-A25B01C17180}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14185A15-2C3F-4497-9F3D-3179A5185837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14185A15-2C3F-4497-9F3D-3179A5185837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14185A15-2C3F-4497-9F3D-3179A5185837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14185A15-2C3F-4497-9F3D-3179A5185837}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1D76D04-D9DE-45D4-8D35-A438A5EA45B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1D76D04-D9DE-45D4-8D35-A438A5EA45B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1D76D04-D9DE-45D4-8D35-A438A5EA45B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1D76D04-D9DE-45D4-8D35-A438A5EA45B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA21F8A3-5EF8-47A6-949C-A25B01C17180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA21F8A3-5EF8-47A6-949C-A25B01C17180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA21F8A3-5EF8-47A6-949C-A25B01C17180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA21F8A3-5EF8-47A6-949C-A25B01C17180}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

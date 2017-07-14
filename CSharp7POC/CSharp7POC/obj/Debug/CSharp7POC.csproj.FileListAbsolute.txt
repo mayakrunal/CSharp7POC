@@ -1,0 +1,6 @@
+C:\Users\kparekh011\Source\Repos\CSharp7POC\CSharp7POC\CSharp7POC\bin\Debug\CSharp7POC.exe.config
+C:\Users\kparekh011\Source\Repos\CSharp7POC\CSharp7POC\CSharp7POC\bin\Debug\CSharp7POC.exe
+C:\Users\kparekh011\Source\Repos\CSharp7POC\CSharp7POC\CSharp7POC\bin\Debug\CSharp7POC.pdb
+C:\Users\kparekh011\Source\Repos\CSharp7POC\CSharp7POC\CSharp7POC\obj\Debug\CSharp7POC.csprojResolveAssemblyReference.cache
+C:\Users\kparekh011\Source\Repos\CSharp7POC\CSharp7POC\CSharp7POC\obj\Debug\CSharp7POC.exe
+C:\Users\kparekh011\Source\Repos\CSharp7POC\CSharp7POC\CSharp7POC\obj\Debug\CSharp7POC.pdb
